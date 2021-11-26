@@ -1,14 +1,17 @@
 # danger-master<html>
-    <img src="https://mars.algoritmika.org/uploads/2020/10/frog-159002_1280_0_1603798105.png" height="30px"/><a href="https://zoo61.ru/articles/10-luchshikh-domashnikh-reptiliy-dlya-vashego-terrariuma">Завести рептилию</a>
-    <h1 style="text-align:center; color:darkgreen">Экзотический</h1>
-    <h1 style="text-align:center; color:darkblue">зоопарк</h1>
-    <p>Приглашаем посетить наш зоопарк, чтобы увидеть редких змей, ящериц, пауков и африканских ежей и многих других животных.</p>
-    <p style="text-align:center; color:blue">Цена билета: 200 рублей — детский, 400 рублей — взрослый, фото с животным — 1000 рублей.</p>
-    <p>Пожалуйста, не стучите по террариумам — это пугает животных, и не приносите для животных еду — у каждого вида своя диета.</p>
+    
+    <h1 style="text-align:center; color:darkgreen">теги
+    
+    </h1>
+    <h1 style="text-align:center; color:darkblue">теги которые позорят тег мир</h1>
+    <p>это 2 тега которые норм и полное говно 
+    <p style="text-align:center; color:blue">boom это тег для чикарей
+
     <p>
-        <img src="https://mars.algoritmika.org/uploads/2020/10/frog-46397_1280_0_1603917437.png" height="90px"/>
-        <img src="https://mars.algoritmika.org/uploads/2020/10/snake-46151_1280_0_1603917437.png" height="90px"/>
-        <img src="https://mars.algoritmika.org/uploads/2020/10/spider-150051_1280_0_1603917437.png" height="90px"/>
+    <p>
+        " 
+        <img src=https://i.ytimg.com/vi/tLdEXWvpV2w/maxresdefault.jpg height="90px"/>
+        <img src="https://cdn.w600.comps.canstockphoto.ru/%D0%B1%D0%B5%D1%80%D0%BB%D0%B8%D0%BD-%D1%82%D0%B5%D0%B3-%D0%B3%D1%80%D0%B0%D1%84%D1%84%D0%B8%D1%82%D0%B8-%D0%B2%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%BD%D1%8B%D0%B9-%D0%BA%D0%BB%D0%B8%D0%BF%D0%B0%D1%80%D1%82_csp64978908.jpg" height="90px"/>
     </p>
-    <p>Адрес: город Зверинск, ул. Зелёная, 15</p>
+    >
 </html>
